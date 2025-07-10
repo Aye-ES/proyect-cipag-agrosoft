@@ -1,0 +1,9 @@
+Solo van a tener usuario los auxiliares de laboratorio
+
+Usuario 1 (Lab. CIPAG área pecuaria)
+Usuario 2 (Lab. CIPAG área Agricola)
+Usuario 3 (Lab. Prod. Lácteos)
+Usuario 4 (Lab. Prod. Cárnicos)
+Usuario 5 (Lab. Suelo y biología)*
+Usuario 6 (Lab. Centro de cómputo)
+Usuario 7 (Lab. Área Apícola)
